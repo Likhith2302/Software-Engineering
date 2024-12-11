@@ -9,6 +9,6 @@ with open('coeff.txt', 'r') as file:
 
 
 Output:-
-For x=4.0, the result is: 75.0
-For x=3.0, the result is: 115.0
-For x=2.0, the result is: -20.0
+For x=30.0, the result is: 166.0
+For x=25.0, the result is: 201.5
+For x=40.0, the result is: 329.8
